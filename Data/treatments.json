@@ -1,0 +1,41 @@
+{
+  "diseases": [
+    {
+      "name": "Early Blight",
+      "treatments": [
+        {
+          "name": "Fungicides",
+          "description": "Spray plants with a recommended fungicide to prevent the disease from spreading. Apply at the first sign of infection and repeat every 7-10 days.",
+          "active_ingredient": "chlorothalonil, mancozeb, copper oxychloride",
+          "application_method": "Spray",
+          "recommended_dosage": "As per the instructions on the label",
+          "precautions": "Wear protective clothing, avoid spraying during windy conditions, and wash hands after use."
+        },
+        {
+          "name": "Crop Rotation",
+          "description": "Rotate crops to reduce disease pressure. Avoid planting potatoes in the same area for at least two years.",
+          "duration": "At least 2 years",
+          "precautions": "Do not rotate with other solanaceous crops such as tomatoes, peppers, and eggplants."
+        }
+      ]
+    },
+    {
+      "name": "Late Blight",
+      "treatments": [
+        {
+          "name": "Fungicides",
+          "description": "Apply fungicides preventively before infection occurs. Fungicides should be applied in a spray program, typically at 7- to 14-day intervals.",
+          "active_ingredient": "Chlorothalonil, mancozeb, azoxystrobin, copper-based fungicides",
+          "application_method": "Spray",
+          "recommended_dosage": "As per the instructions on the label",
+          "precautions": "Wear protective clothing, avoid spraying during windy conditions, and wash hands after use."
+        },
+        {
+          "name": "Cultural Control",
+          "description": "Remove infected plants and debris from the field and destroy them. Do not compost the infected plants.",
+          "precautions": "Dispose of infected plant material carefully and avoid spreading the disease to healthy plants."
+        }
+      ]
+    }
+  ]
+}
