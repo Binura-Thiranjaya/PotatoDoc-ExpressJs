@@ -1,0 +1,239 @@
+{
+    "diseases":[
+        {
+            "id":1,
+            "subname":"Phytopthora",
+            "images": [
+                {
+                    "image":"WM-Potato-Late-blight-1.jpg"
+                },
+                {
+                    "image":"WM-Potato-late-blight-2.jpg"
+                }
+            ],
+            "name":"Potato late blight – Phytopthora infestans",
+            "treatments":[
+                {
+                    "treatment":"Crop rotation/Fallowing"
+                },
+                {
+                    "treatment":"Start cultivation at correct time"
+
+                },
+                {
+                    "treatment":"Use resistant varieties – Carlous"
+                },
+                {
+                    "treatment": "Use disease free tubers" 
+                }
+            ],
+            "fungicides":[
+                {
+                    "fungicide": "Mancozeb"
+                },
+                {
+                    "fungicide":"Maneb"
+                },
+                {
+                    "fungicide":"Metalaxyl"
+                },
+                {
+                    "fungicide":"Fluazinam"
+                }
+            ]
+            
+        },
+        {
+            "id":2,
+            "subname":"Alternaria",
+            "images": [
+                {
+                    "image":"WM-Potato-Early-blight-1.jpg"
+                },
+                {
+                    "image":"WM-Potato-Early-blight-2.jpg"
+                }
+            ],
+            "name":"Potato early blight -Alternaria solani",
+            "treatments":[
+                {
+                    "treatment":"Crop rotation"
+                              
+                }
+            ],   
+            "fungicides":[
+                {
+                    "fungicide": "Mancozeb"
+                },
+                {
+                    "fungicide":"Maneb"
+                }        
+            ]
+        },
+        {
+            "id":3,
+            "subname":"Streptomyces",
+            "images": [
+                {
+                    "image":"WM-Potato-Commo-Scab-1.jpg"
+                },
+                {
+                    "image":"WM-Potato-Commo-Scab-2.jpg"
+                }
+            ],
+            "name":"Potato commo scab – Streptomyces scabies",
+            "treatments":[
+                {
+                    "treatment": "Use disease free tubers"
+                },
+                {
+                    "treatment":"Maintain soil pH 5.0- 5.2"
+
+                },
+                {
+                    "treatment":"Maintain soil water level"
+                },
+                {
+                    "treatment":"Crop rotation"
+                }
+            ],
+            "fungicides":[
+                {
+                    "fungicide": "No Fungicides Included"
+                }
+            ]
+        },
+        {
+            "id":4,
+            "subname":"Rhizoctonia",
+            "images": [
+                {
+                    "image":"WM-Black-Scurf-1.jpeg"
+                }
+            ],
+            "name":"Black scurf - Rhizoctonia solani",
+            "treatments":[
+                {
+                    "treatment": "Crop rotation"
+                }
+                
+            ],
+            "fungicides":[
+                {
+                    "fungicide": "No Fungicides Included"
+                }
+            ]
+        },
+        {
+            "id":5,
+            "subname":"Spongospora",
+            "images": [
+                {
+                    "image":"WM-Powdery-Scab-1.jpg"
+                }
+            ],
+            "name":"Powdery scab – Spongospora subterranea",
+            "treatments":[
+                {
+                    "treatment": "Use disease free tubers"
+                },
+                {
+                    "treatment":"Crop rotation/Fallowing"
+                }     
+            ],
+            "fungicides":[
+                {
+                    "fungicide": "No Fungicides Included"
+                }
+            ]
+        },
+        {
+            "id":6,
+            "subname":"Ralstonia",
+            "images": [
+                {
+                    "image":"WM-Bacterial-wilt-1.png"
+                },
+                {
+                    "image":"WM-Bacterial-wilt-2.png"
+                }
+            ],
+            "name":"Bacterial wilt – Ralstonia solancearum",
+            "treatments":[
+                {
+                    "treatment": "Use disease free tubers"
+                },
+                {
+                    "treatment":"Crop rotation/fallowing – at least three years"
+                } ,
+                {
+                    "treatment": "Improve drainage in the fields"
+                }
+               
+            ],
+            "fungicides":[
+                {
+                    "fungicide": "No Fungicides Included"
+                }
+            ]
+        },
+        {
+            "id":7,
+            "subname":"Fusarium",
+            "images": [
+                {
+                    "image":"WM-Dry-Rot-1.jpeg"
+                },
+                {
+                    "image":"WM-Dry-Rot-2.jpeg"
+                }
+            ],
+            "name":"Dry rot – Fusarium solani",
+            "treatments":[
+                {
+                    "treatment": "Use disease free tubers"
+
+                },
+                {
+                    "treatment": "Crop rotation"
+                }
+            ],
+            "fungicides":[
+                {
+                    "fungicide": "No Fungicides Included"
+                }
+            ]
+        },
+        {
+            "id":8,
+            "subname":"Virus",
+            "images": [
+                {
+                    "image":"WM-Potato-leafroll-1.jpeg"
+                },
+                {
+                    "image":"WM-Potato-leafroll-2.jpeg"
+                }
+            ],
+            "name":"Virus diseases – Potato leaf role virus, potato virus Y, potato virus X,",
+            "treatments":[
+                {
+                    "treatment": "Control vectors – aphids"
+
+                },
+                {
+                    "treatment": "Regular monitoring the field"
+
+                },
+                {
+                    "treatment": "Remove and destroy infected plants"
+                }
+            ],
+            "fungicides":[
+                {
+                    "fungicide": "No Fungicides Included"
+                }
+            ]   
+        }
+    ]
+}

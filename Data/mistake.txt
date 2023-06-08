@@ -1,0 +1,10 @@
+ // {
+                        //     "1":"Mancozeb",
+                        //     "2":"Maneb",
+                        //     "3":"Metalaxyl",
+                        //     "4":"Fluazinam"
+                        // }
+
+                        "Images":[
+                ""
+            ]
