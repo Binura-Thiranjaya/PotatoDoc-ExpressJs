@@ -5,10 +5,10 @@
             "subname":"Phytopthora",
             "images": [
                 {
-                    "image":"https://mysliit-my.sharepoint.com/personal/it21712890_my_sliit_lk/_layouts/15/embed.aspx?UniqueId=1481a4a0-45bb-4dac-bdad-ceb6c7cf3b06"
+                    "image":"WM-Potato-Late-blight-1.jpg"
                 },
                 {
-                    "image":"https://mysliit-my.sharepoint.com/personal/it21712890_my_sliit_lk/_layouts/15/embed.aspx?UniqueId=02b10bd5-7c5f-4409-b05a-f547884264a3"
+                    "image":"WM-Potato-late-blight-2.jpg"
                 }
             ],
             "name":"Potato late blight – Phytopthora infestans",
@@ -48,10 +48,10 @@
             "subname":"Alternaria",
             "images": [
                 {
-                    "image":"https://mysliit-my.sharepoint.com/personal/it21712890_my_sliit_lk/_layouts/15/embed.aspx?UniqueId=a07b2782-8bc9-46ff-a71d-988aae8f3493"
+                    "image":"WM-Potato-Early-blight-1.jpg"
                 },
                 {
-                    "image":"https://mysliit-my.sharepoint.com/personal/it21712890_my_sliit_lk/_layouts/15/embed.aspx?UniqueId=c72f5934-7775-4bab-a122-cf4e5303c4f7"
+                    "image":"WM-Potato-Early-blight-2.jpg"
                 }
             ],
             "name":"Potato early blight -Alternaria solani",
@@ -75,10 +75,10 @@
             "subname":"Streptomyces",
             "images": [
                 {
-                    "image":"https://mysliit-my.sharepoint.com/personal/it21712890_my_sliit_lk/_layouts/15/embed.aspx?UniqueId=45071a6b-dea4-4943-99b6-27f5d6b4aa52"
+                    "image":"WM-Potato-Commo-Scab-1.jpg"
                 },
                 {
-                    "image":"https://mysliit-my.sharepoint.com/personal/it21712890_my_sliit_lk/_layouts/15/embed.aspx?UniqueId=6aa0f9c9-cd7a-42a9-8597-e51b8a91a38d"
+                    "image":"WM-Potato-Commo-Scab-2.jpg"
                 }
             ],
             "name":"Potato commo scab – Streptomyces scabies",
@@ -108,7 +108,7 @@
             "subname":"Rhizoctonia",
             "images": [
                 {
-                    "image":"https://mysliit-my.sharepoint.com/personal/it21712890_my_sliit_lk/_layouts/15/embed.aspx?UniqueId=4a762f6a-63ef-4252-a6dd-b5bb2a898e20"
+                    "image":"WM-Black-Scurf-1.jpeg"
                 }
             ],
             "name":"Black scurf - Rhizoctonia solani",
@@ -129,7 +129,7 @@
             "subname":"Spongospora",
             "images": [
                 {
-                    "image":"https://mysliit-my.sharepoint.com/personal/it21712890_my_sliit_lk/_layouts/15/embed.aspx?UniqueId=56d75b76-524c-4ed3-9a45-6e4d8753d4eb"
+                    "image":"WM-Powdery-Scab-1.jpg"
                 }
             ],
             "name":"Powdery scab – Spongospora subterranea",
@@ -152,10 +152,10 @@
             "subname":"Ralstonia",
             "images": [
                 {
-                    "image":"https://mysliit-my.sharepoint.com/personal/it21712890_my_sliit_lk/_layouts/15/embed.aspx?UniqueId=f20cad30-8d36-4edc-8a1e-ecfa8a29aaa3"
+                    "image":"WM-Bacterial-wilt-1.png"
                 },
                 {
-                    "image":"https://mysliit-my.sharepoint.com/personal/it21712890_my_sliit_lk/_layouts/15/embed.aspx?UniqueId=91c9a383-0db9-4e4b-9dd0-26e72b7c1445"
+                    "image":"WM-Bacterial-wilt-2.png"
                 }
             ],
             "name":"Bacterial wilt – Ralstonia solancearum",
@@ -182,10 +182,10 @@
             "subname":"Fusarium",
             "images": [
                 {
-                    "image":"https://mysliit-my.sharepoint.com/personal/it21712890_my_sliit_lk/_layouts/15/embed.aspx?UniqueId=6ae7d8b8-2980-450b-9438-7fb65a7ce66b"
+                    "image":"WM-Dry-Rot-1.jpeg"
                 },
                 {
-                    "image":"https://mysliit-my.sharepoint.com/personal/it21712890_my_sliit_lk/_layouts/15/embed.aspx?UniqueId=18c47c51-5ae1-43e3-9bc2-fdb97d2f6413"
+                    "image":"WM-Dry-Rot-2.jpeg"
                 }
             ],
             "name":"Dry rot – Fusarium solani",
@@ -209,10 +209,10 @@
             "subname":"Virus",
             "images": [
                 {
-                    "image":"https://mysliit-my.sharepoint.com/personal/it21712890_my_sliit_lk/_layouts/15/embed.aspx?UniqueId=f8995a45-dcc6-4c2f-b728-c5eca6d32868"
+                    "image":"WM-Potato-leafroll-1.jpeg"
                 },
                 {
-                    "image":"https://mysliit-my.sharepoint.com/personal/it21712890_my_sliit_lk/_layouts/15/embed.aspx?UniqueId=7c7eb0dd-ebb3-4785-ab58-4498571e5f91"
+                    "image":"WM-Potato-leafroll-2.jpeg"
                 }
             ],
             "name":"Virus diseases – Potato leaf role virus, potato virus Y, potato virus X,",
