@@ -1,10 +1,11 @@
+import DiseaseManagement from "./Data/diseaseManagement.json" assert { type: "json" };
+
 import express from 'express'
 import cors from "cors";
 import bodyParser from "body-parser";
 
 //json
 // import Treatments from "./Data/treatments.json" assert { type: "json" };
-import DiseaseManagement from "./Data/diseaseManagement.json" assert { type: "json" };
 
 //Routes
 
