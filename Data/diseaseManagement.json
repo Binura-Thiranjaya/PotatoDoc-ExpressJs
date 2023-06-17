@@ -12,7 +12,7 @@
                     "image":"https://drive.google.com/uc?export=view&id=1vjA2nn4jotoGkxa6eWk8O1Zm_J2WgaUQ"
                 }
             ],
-            "name":"Potato late blight – Phytopthora infestans",
+            "name":"Potato late blight - Phytopthora infestans",
             "treatments":[
                 {
                     "treatment":"Crop rotation/Fallowing"
@@ -44,6 +44,7 @@
             ]
             
         },
+
         {
             "id":2,
             "subname":"Alternaria",
@@ -56,7 +57,7 @@
                     "image":"https://drive.google.com/uc?export=view&id=1SwxuT5dquBSRaAlu6xvS_puSXSCOkK2A"
                 }
             ],
-            "name":"Potato early blight -Alternaria solani",
+            "name":"Potato early blight - Alternaria solani",
             "treatments":[
                 {
                     "treatment":"Crop rotation"
@@ -72,6 +73,7 @@
                 }        
             ]
         },
+
         {
             "id":3,
             "subname":"Streptomyces",
@@ -105,6 +107,7 @@
                 }
             ]
         },
+
         {
             "id":4,
             "subname":"Rhizoctonia",
@@ -126,6 +129,7 @@
                 }
             ]
         },
+
         {
             "id":5,
             "subname":"Spongospora",
@@ -149,6 +153,7 @@
                 }
             ]
         },
+
         {
             "id":6,
             "subname":"Ralstonia",
@@ -217,7 +222,7 @@
                     "image":"https://drive.google.com/uc?export=view&id=1UK24g8Jk-ztHm6BMbGXDaElj1uGpLAZH"
                 }
             ],
-            "name":"Virus diseases – Potato leaf role virus, potato virus Y, potato virus X,",
+            "name":"Virus diseases – Potato leaf role virus, potato virus Y, potato virus X",
             "treatments":[
                 {
                     "treatment": "Control vectors – aphids"
