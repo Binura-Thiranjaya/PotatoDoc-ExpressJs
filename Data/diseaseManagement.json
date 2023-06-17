@@ -3,6 +3,7 @@
         {
             "id":1,
             "subname":"Phytopthora",
+            "description":"This infestans also can infect other solanaceous plants, including tomatoes, petunias and hairy nightshade.",
             "images": [
                 {
                     "image":"https://drive.google.com/uc?export=view&id=1x7_d8fKB6kRz_qY_LpbWsx8J0FLlh6tJ"
@@ -46,6 +47,7 @@
         {
             "id":2,
             "subname":"Alternaria",
+            "description":"The disease affects leaves, stems and tubers and can reduce yield, tuber size, storability of tubers, quality of fresh-market and processing tubers and marketability of the crop.",
             "images": [
                 {
                     "image":"https://drive.google.com/uc?export=view&id=1r87y4on7UHdlN-z4W9AI9aCkwWp216aG"
